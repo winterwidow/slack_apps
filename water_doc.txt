@@ -1,0 +1,7 @@
+bot token
+chat:write
+channels:read
+group:read
+always show bot as online
+
+channel id has the id of particular channel/DM (after the last slash)
